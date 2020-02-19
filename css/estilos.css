@@ -1,0 +1,25 @@
+* {
+    cursor: url(../imagenes/cursor.png),auto;
+}
+body{
+    background: black;
+    background-image: url(../imagenes/background.gif);
+}
+#wrapper{
+    width: 1100px;
+    margin: 0 auto;
+    padding: 0;
+    opacity: 0.92;
+    border-radius: 20px;}
+#frase1{
+    padding: 10px; 
+    }
+#frase2{
+    font-family: fantasy;
+    text-align: center;
+    font-size: 62px;}
+#musica{
+    margin: 0 auto;
+    background-color: transparent;
+    width: 300px;
+    height: 70px;}
